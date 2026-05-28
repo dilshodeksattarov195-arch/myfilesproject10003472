@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configetringify",
+        "uuid": 20349392,
+        "checksum": "9d0fjq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
